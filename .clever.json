@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_11974db9-6d2b-4517-be4c-1b15abcf6b4f",
+      "org_id": "orga_bd114d68-455d-4747-89b8-06269d1e5614",
+      "deploy_url": "https://github.com/ronaldo888kgs/greenarchitecture.git",
+      "name": "greenarchitecture",
+      "alias": "greenarchitecture"
+    }
+  ]
+}
